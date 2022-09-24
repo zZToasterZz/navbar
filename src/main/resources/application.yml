@@ -1,0 +1,38 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/srdterp?createDatabaseIfNotExist=true
+    username: root
+    password: Srdt_217
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
+    
+  
+
+logging:
+  level:
+    org:
+      hibernate:
+        type: trace
+
+    
+security:
+  oauth2:
+   resource:
+      token-info-uri: http://192.200.12.80:9195/oauth/check_token
+
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: false
+    service-url:
+      defaultZone: http://192.200.12.80:80/eureka      
+    healthcheck:
+      enabled: true
+  instance:
+    prefer-ip-address: true
+    ip-address: 192.200.12.80

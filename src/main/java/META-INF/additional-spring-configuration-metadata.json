@@ -1,0 +1,112 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dialect'"
+  },
+  {
+    "name": "swagger.showExtensions",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.showExtensions'"
+  },
+  {
+    "name": "swagger.maxDisplayedTags",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.maxDisplayedTags'"
+  },
+  {
+    "name": "swagger.filter",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.filter'"
+  },
+  {
+    "name": "swagger.displayRequestDuration",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.displayRequestDuration'"
+  },
+  {
+    "name": "swagger.displayOperationId",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.displayOperationId'"
+  },
+  {
+    "name": "swagger.defaultModelExpandDepth",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.defaultModelExpandDepth'"
+  },
+  {
+    "name": "swagger.defaultModelsExpandDepth",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.defaultModelsExpandDepth'"
+  },
+  {
+    "name": "swagger.deepLinking",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.deepLinking'"
+  },
+  {
+    "name": "swagger.enableUrlTemplating",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.enableUrlTemplating'"
+  },
+  {
+    "name": "swagger.useDefaultResponseMessages",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.useDefaultResponseMessages'"
+  },
+  {
+    "name": "swagger.description",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.description'"
+  },
+  {
+    "name": "swagger.title",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.title'"
+  },
+  {
+    "name": "api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'api.version'"
+  },
+  {
+    "name": "swagger.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.enabled'"
+  },
+  {
+    "name": "swagger.useDefaultResponseMessages",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.useDefaultResponseMessages'"
+  },
+  {
+    "name": "swagger.useDefaultResponseMessages",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.useDefaultResponseMessages'"
+  },
+  {
+    "name": "swagger.useDefaultResponseMessages",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.useDefaultResponseMessages'"
+  },
+  {
+    "name": "swagger.enableUrlTemplating",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.enableUrlTemplating'"
+  },
+  {
+    "name": "swagger.showExtensions",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.showExtensions'"
+  },
+  {
+    "name": "hystrix.command.default.execution.isolation.strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix.command.default.execution.isolation.strategy'"
+  },
+  {
+    "name": "hystrix.command.default.execution.isolation.thread.timeout-in-milliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix.command.default.execution.isolation.thread.timeout-in-milliseconds'"
+  }
+]}
